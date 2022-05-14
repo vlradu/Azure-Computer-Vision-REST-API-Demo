@@ -1,0 +1,175 @@
+{
+  "tags": [
+    {
+      "name": "grass",
+      "confidence": 0.9984172582626343
+    },
+    {
+      "name": "outdoor",
+      "confidence": 0.9958255290985107
+    },
+    {
+      "name": "animal",
+      "confidence": 0.9858905076980591
+    },
+    {
+      "name": "mammal",
+      "confidence": 0.9811385869979858
+    },
+    {
+      "name": "sheep",
+      "confidence": 0.9623615741729736
+    },
+    {
+      "name": "livestock",
+      "confidence": 0.9043469429016113
+    },
+    {
+      "name": "herd",
+      "confidence": 0.8865835666656494
+    },
+    {
+      "name": "field",
+      "confidence": 0.8765201568603516
+    },
+    {
+      "name": "shepherd",
+      "confidence": 0.8693462610244751
+    },
+    {
+      "name": "herding",
+      "confidence": 0.8659775257110596
+    },
+    {
+      "name": "person",
+      "confidence": 0.6681609749794006
+    },
+    {
+      "name": "standing",
+      "confidence": 0.6666695475578308
+    }
+  ],
+  "description": {
+    "tags": [
+      "grass",
+      "outdoor",
+      "sheep",
+      "field",
+      "mammal",
+      "grassy"
+    ],
+    "captions": [
+      {
+        "text": "a person with a gun in front of a herd of sheep",
+        "confidence": 0.5160072445869446
+      }
+    ]
+  },
+  "objects": [
+    {
+      "rectangle": {
+        "x": 724,
+        "y": 249,
+        "w": 88,
+        "h": 125
+      },
+      "object": "merino sheep",
+      "confidence": 0.548,
+      "parent": {
+        "object": "sheep",
+        "confidence": 0.597,
+        "parent": {
+          "object": "mammal",
+          "confidence": 0.604,
+          "parent": {
+            "object": "animal",
+            "confidence": 0.605
+          }
+        }
+      }
+    },
+    {
+      "rectangle": {
+        "x": 867,
+        "y": 229,
+        "w": 208,
+        "h": 115
+      },
+      "object": "merino sheep",
+      "confidence": 0.601,
+      "parent": {
+        "object": "sheep",
+        "confidence": 0.645,
+        "parent": {
+          "object": "mammal",
+          "confidence": 0.646,
+          "parent": {
+            "object": "animal",
+            "confidence": 0.647
+          }
+        }
+      }
+    },
+    {
+      "rectangle": {
+        "x": 883,
+        "y": 311,
+        "w": 282,
+        "h": 180
+      },
+      "object": "merino sheep",
+      "confidence": 0.825,
+      "parent": {
+        "object": "sheep",
+        "confidence": 0.868,
+        "parent": {
+          "object": "mammal",
+          "confidence": 0.871,
+          "parent": {
+            "object": "animal",
+            "confidence": 0.871
+          }
+        }
+      }
+    },
+    {
+      "rectangle": {
+        "x": 1181,
+        "y": 299,
+        "w": 248,
+        "h": 199
+      },
+      "object": "merino sheep",
+      "confidence": 0.835,
+      "parent": {
+        "object": "sheep",
+        "confidence": 0.871,
+        "parent": {
+          "object": "mammal",
+          "confidence": 0.877,
+          "parent": {
+            "object": "animal",
+            "confidence": 0.878
+          }
+        }
+      }
+    },
+    {
+      "rectangle": {
+        "x": 303,
+        "y": 367,
+        "w": 401,
+        "h": 462
+      },
+      "object": "person",
+      "confidence": 0.786
+    }
+  ],
+  "requestId": "6aae2b7e-f8c8-47c1-9a85-ba1efac6098f",
+  "metadata": {
+    "height": 998,
+    "width": 1506,
+    "format": "Jpeg"
+  },
+  "modelVersion": "2021-05-01"
+}

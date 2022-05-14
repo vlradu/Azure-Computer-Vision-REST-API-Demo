@@ -1,0 +1,80 @@
+{
+  "tags": [
+    {
+      "name": "animal",
+      "confidence": 0.9981442093849182
+    },
+    {
+      "name": "invertebrate",
+      "confidence": 0.997532308101654
+    },
+    {
+      "name": "insect",
+      "confidence": 0.9279528260231018
+    },
+    {
+      "name": "ladybug",
+      "confidence": 0.9037750959396362
+    },
+    {
+      "name": "pest",
+      "confidence": 0.8898688554763794
+    },
+    {
+      "name": "outdoor",
+      "confidence": 0.8629693388938904
+    },
+    {
+      "name": "arthropod",
+      "confidence": 0.8469913601875305
+    }
+  ],
+  "description": {
+    "tags": [
+      "wooden",
+      "insect",
+      "close"
+    ],
+    "captions": [
+      {
+        "text": "a ladybug on a wood surface",
+        "confidence": 0.6580310463905334
+      }
+    ]
+  },
+  "objects": [
+    {
+      "rectangle": {
+        "x": 729,
+        "y": 774,
+        "w": 142,
+        "h": 113
+      },
+      "object": "ladybug",
+      "confidence": 0.591,
+      "parent": {
+        "object": "beetle",
+        "confidence": 0.6,
+        "parent": {
+          "object": "insect",
+          "confidence": 0.607,
+          "parent": {
+            "object": "Invertebrate",
+            "confidence": 0.7,
+            "parent": {
+              "object": "animal",
+              "confidence": 0.718
+            }
+          }
+        }
+      }
+    }
+  ],
+  "requestId": "527808b1-6a40-4b85-8668-e5a69c799f42",
+  "metadata": {
+    "height": 1577,
+    "width": 2381,
+    "format": "Jpeg"
+  },
+  "modelVersion": "2021-05-01"
+}

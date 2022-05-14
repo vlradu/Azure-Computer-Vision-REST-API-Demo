@@ -1,0 +1,93 @@
+{
+  "tags": [
+    {
+      "name": "insect",
+      "confidence": 0.9744829535484314
+    },
+    {
+      "name": "outdoor",
+      "confidence": 0.95357346534729
+    },
+    {
+      "name": "pest",
+      "confidence": 0.9318579435348511
+    },
+    {
+      "name": "animal",
+      "confidence": 0.9187659025192261
+    },
+    {
+      "name": "arthropod",
+      "confidence": 0.9142546653747559
+    },
+    {
+      "name": "macro photography",
+      "confidence": 0.8913102149963379
+    },
+    {
+      "name": "invertebrate",
+      "confidence": 0.846510648727417
+    },
+    {
+      "name": "ant",
+      "confidence": 0.8044467568397522
+    },
+    {
+      "name": "grass",
+      "confidence": 0.7546902894973755
+    },
+    {
+      "name": "ground",
+      "confidence": 0.6232336759567261
+    },
+    {
+      "name": "nature",
+      "confidence": 0.5814710259437561
+    }
+  ],
+  "description": {
+    "tags": [
+      "insect",
+      "wooden",
+      "concrete",
+      "cement"
+    ],
+    "captions": [
+      {
+        "text": "a bug on a wood surface",
+        "confidence": 0.4626564681529999
+      }
+    ]
+  },
+  "objects": [
+    {
+      "rectangle": {
+        "x": 422,
+        "y": 451,
+        "w": 388,
+        "h": 279
+      },
+      "object": "Dragonfly",
+      "confidence": 0.587,
+      "parent": {
+        "object": "insect",
+        "confidence": 0.763,
+        "parent": {
+          "object": "Invertebrate",
+          "confidence": 0.768,
+          "parent": {
+            "object": "animal",
+            "confidence": 0.774
+          }
+        }
+      }
+    }
+  ],
+  "requestId": "ebc4621d-f507-427d-af14-f4cdb8a17246",
+  "metadata": {
+    "height": 1228,
+    "width": 1855,
+    "format": "Jpeg"
+  },
+  "modelVersion": "2021-05-01"
+}

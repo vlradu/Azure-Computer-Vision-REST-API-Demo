@@ -1,0 +1,107 @@
+{
+  "tags": [
+    {
+      "name": "animal",
+      "confidence": 0.9995733499526978
+    },
+    {
+      "name": "mammal",
+      "confidence": 0.9992891550064087
+    },
+    {
+      "name": "big cat",
+      "confidence": 0.9951282143592834
+    },
+    {
+      "name": "zoo",
+      "confidence": 0.9546149373054504
+    },
+    {
+      "name": "big cats",
+      "confidence": 0.937547504901886
+    },
+    {
+      "name": "lion",
+      "confidence": 0.9298110008239746
+    },
+    {
+      "name": "masai lion",
+      "confidence": 0.8987156748771667
+    },
+    {
+      "name": "terrestrial animal",
+      "confidence": 0.8919215798377991
+    },
+    {
+      "name": "roar",
+      "confidence": 0.8686704635620117
+    },
+    {
+      "name": "snout",
+      "confidence": 0.8523508310317993
+    },
+    {
+      "name": "yawn",
+      "confidence": 0.8430659770965576
+    },
+    {
+      "name": "outdoor",
+      "confidence": 0.7403551340103149
+    },
+    {
+      "name": "ground",
+      "confidence": 0.5655593276023865
+    },
+    {
+      "name": "cat",
+      "confidence": 0.4803602397441864
+    }
+  ],
+  "description": {
+    "tags": [
+      "dog",
+      "outdoor",
+      "animal",
+      "brown",
+      "wooden",
+      "mammal",
+      "park",
+      "stone",
+      "lion",
+      "tan"
+    ],
+    "captions": [
+      {
+        "text": "a lion lying on a bench",
+        "confidence": 0.46150195598602295
+      }
+    ]
+  },
+  "objects": [
+    {
+      "rectangle": {
+        "x": 198,
+        "y": 61,
+        "w": 796,
+        "h": 757
+      },
+      "object": "Lion",
+      "confidence": 0.861,
+      "parent": {
+        "object": "mammal",
+        "confidence": 0.916,
+        "parent": {
+          "object": "animal",
+          "confidence": 0.918
+        }
+      }
+    }
+  ],
+  "requestId": "81a43fda-cf63-49ad-b592-61febcb52411",
+  "metadata": {
+    "height": 873,
+    "width": 1318,
+    "format": "Jpeg"
+  },
+  "modelVersion": "2021-05-01"
+}

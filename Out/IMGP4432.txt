@@ -1,0 +1,91 @@
+{
+  "tags": [
+    {
+      "name": "bird",
+      "confidence": 0.998885452747345
+    },
+    {
+      "name": "animal",
+      "confidence": 0.9988378286361694
+    },
+    {
+      "name": "beak",
+      "confidence": 0.9767271876335144
+    },
+    {
+      "name": "wildlife",
+      "confidence": 0.9315761923789978
+    },
+    {
+      "name": "outdoor",
+      "confidence": 0.9057896137237549
+    },
+    {
+      "name": "sitting",
+      "confidence": 0.8832104206085205
+    },
+    {
+      "name": "feather",
+      "confidence": 0.8818881511688232
+    },
+    {
+      "name": "perching bird",
+      "confidence": 0.8806406259536743
+    },
+    {
+      "name": "perched",
+      "confidence": 0.8126828670501709
+    },
+    {
+      "name": "sparrow",
+      "confidence": 0.6309562921524048
+    },
+    {
+      "name": "standing",
+      "confidence": 0.6200469732284546
+    }
+  ],
+  "description": {
+    "tags": [
+      "bird",
+      "sitting",
+      "animal",
+      "perched",
+      "standing",
+      "oscine"
+    ],
+    "captions": [
+      {
+        "text": "a small bird on a ledge",
+        "confidence": 0.46884989738464355
+      }
+    ]
+  },
+  "objects": [
+    {
+      "rectangle": {
+        "x": 269,
+        "y": 44,
+        "w": 509,
+        "h": 873
+      },
+      "object": "swallow",
+      "confidence": 0.599,
+      "parent": {
+        "object": "bird",
+        "confidence": 0.946,
+        "parent": {
+          "object": "animal",
+          "confidence": 0.952
+        }
+      }
+    }
+  ],
+  "requestId": "0a3fe706-e50f-40fd-8bde-d00814d3212c",
+  "metadata": {
+    "height": 1133,
+    "width": 1711,
+    "format": "Jpeg"
+  },
+  "modelVersion": "2021-05-01"
+}

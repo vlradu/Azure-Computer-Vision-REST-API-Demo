@@ -1,0 +1,141 @@
+{
+  "tags": [
+    {
+      "name": "aircraft",
+      "confidence": 0.999504029750824
+    },
+    {
+      "name": "transport",
+      "confidence": 0.9989498853683472
+    },
+    {
+      "name": "sky",
+      "confidence": 0.9951504468917847
+    },
+    {
+      "name": "outdoor",
+      "confidence": 0.9874508380889893
+    },
+    {
+      "name": "air sports",
+      "confidence": 0.9437819123268127
+    },
+    {
+      "name": "flight",
+      "confidence": 0.9295482039451599
+    },
+    {
+      "name": "light aircraft",
+      "confidence": 0.9228651523590088
+    },
+    {
+      "name": "air travel",
+      "confidence": 0.9130663871765137
+    },
+    {
+      "name": "general aviation",
+      "confidence": 0.8987481594085693
+    },
+    {
+      "name": "hang gliding",
+      "confidence": 0.8924551010131836
+    },
+    {
+      "name": "ultralight aviation",
+      "confidence": 0.885479211807251
+    },
+    {
+      "name": "airplane",
+      "confidence": 0.8697021007537842
+    },
+    {
+      "name": "vehicle",
+      "confidence": 0.8612664341926575
+    },
+    {
+      "name": "propeller-driven aircraft",
+      "confidence": 0.8558918237686157
+    },
+    {
+      "name": "monoplane",
+      "confidence": 0.8495965003967285
+    },
+    {
+      "name": "plane",
+      "confidence": 0.8289936184883118
+    },
+    {
+      "name": "blue",
+      "confidence": 0.793367862701416
+    },
+    {
+      "name": "airshow",
+      "confidence": 0.7823182344436646
+    },
+    {
+      "name": "red",
+      "confidence": 0.7389708757400513
+    },
+    {
+      "name": "air",
+      "confidence": 0.67963707447052
+    },
+    {
+      "name": "glider",
+      "confidence": 0.5225955247879028
+    }
+  ],
+  "description": {
+    "tags": [
+      "sky",
+      "outdoor",
+      "transport",
+      "flying",
+      "aircraft",
+      "plane",
+      "airplane",
+      "air",
+      "red",
+      "blue",
+      "clear",
+      "high"
+    ],
+    "captions": [
+      {
+        "text": "a person in a chair",
+        "confidence": 0.28165459632873535
+      }
+    ]
+  },
+  "objects": [
+    {
+      "rectangle": {
+        "x": 620,
+        "y": 317,
+        "w": 367,
+        "h": 361
+      },
+      "object": "airplane",
+      "confidence": 0.691,
+      "parent": {
+        "object": "plane",
+        "confidence": 0.731,
+        "parent": {
+          "object": "aircraft",
+          "confidence": 0.821,
+          "parent": {
+            "object": "Vehicle",
+            "confidence": 0.828
+          }
+        }
+      }
+    }
+  ],
+  "requestId": "56115f8e-e73c-450e-984e-f1ec60b7af41",
+  "metadata": {
+    "height": 999,
+    "width": 1508,
+    "format": "Jpeg"
+  },
+  "modelVersion": "2021-05-01"
+}

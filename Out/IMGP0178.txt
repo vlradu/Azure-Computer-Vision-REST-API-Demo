@@ -1,0 +1,70 @@
+{
+  "tags": [
+    {
+      "name": "animal",
+      "confidence": 0.9847513437271118
+    },
+    {
+      "name": "outdoor",
+      "confidence": 0.9718862771987915
+    },
+    {
+      "name": "reptile",
+      "confidence": 0.9367905259132385
+    },
+    {
+      "name": "amphibian",
+      "confidence": 0.8733941316604614
+    },
+    {
+      "name": "water",
+      "confidence": 0.8353901505470276
+    },
+    {
+      "name": "frog",
+      "confidence": 0.7974061965942383
+    },
+    {
+      "name": "ground",
+      "confidence": 0.5888894200325012
+    },
+    {
+      "name": "nature",
+      "confidence": 0.4932360053062439
+    },
+    {
+      "name": "pond",
+      "confidence": 0.4619392156600952
+    }
+  ],
+  "description": {
+    "tags": [
+      "animal"
+    ],
+    "captions": [
+      {
+        "text": "a group of turtles on a log in the water",
+        "confidence": 0.41857728362083435
+      }
+    ]
+  },
+  "objects": [
+    {
+      "rectangle": {
+        "x": 72,
+        "y": 293,
+        "w": 704,
+        "h": 336
+      },
+      "object": "animal",
+      "confidence": 0.605
+    }
+  ],
+  "requestId": "b97eb363-c557-4ab0-b66c-68735dc9d735",
+  "metadata": {
+    "height": 962,
+    "width": 1452,
+    "format": "Jpeg"
+  },
+  "modelVersion": "2021-05-01"
+}

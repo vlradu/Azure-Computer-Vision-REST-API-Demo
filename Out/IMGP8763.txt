@@ -1,0 +1,86 @@
+{
+  "tags": [
+    {
+      "name": "outdoor",
+      "confidence": 0.9993864297866821
+    },
+    {
+      "name": "animal",
+      "confidence": 0.9976649284362793
+    },
+    {
+      "name": "tree",
+      "confidence": 0.9826633930206299
+    },
+    {
+      "name": "bird",
+      "confidence": 0.9768739938735962
+    },
+    {
+      "name": "sky",
+      "confidence": 0.95993971824646
+    },
+    {
+      "name": "wing",
+      "confidence": 0.9003353714942932
+    },
+    {
+      "name": "flight",
+      "confidence": 0.8870904445648193
+    },
+    {
+      "name": "falcon",
+      "confidence": 0.8601192235946655
+    },
+    {
+      "name": "hawk",
+      "confidence": 0.8531515598297119
+    },
+    {
+      "name": "wildlife",
+      "confidence": 0.5958263278007507
+    }
+  ],
+  "description": {
+    "tags": [
+      "tree",
+      "outdoor",
+      "sky",
+      "snow",
+      "animal",
+      "bird",
+      "air",
+      "forest",
+      "day"
+    ],
+    "captions": [
+      {
+        "text": "a bird flying in the sky",
+        "confidence": 0.5297029614448547
+      }
+    ]
+  },
+  "objects": [
+    {
+      "rectangle": {
+        "x": 903,
+        "y": 366,
+        "w": 329,
+        "h": 144
+      },
+      "object": "bird",
+      "confidence": 0.815,
+      "parent": {
+        "object": "animal",
+        "confidence": 0.823
+      }
+    }
+  ],
+  "requestId": "5d469cbc-a7c9-4c14-a680-22d47fe7bf59",
+  "metadata": {
+    "height": 1012,
+    "width": 1528,
+    "format": "Jpeg"
+  },
+  "modelVersion": "2021-05-01"
+}
