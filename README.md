@@ -10,7 +10,10 @@ In a PowerShell session, call the script with a syntax similar to this:
 ## Prerequisites:  
 If you're going to use the **-ShowImages** parameter to preview the images, you'll also need to install IrfanView or modify **$PhotoAppPath** to point out to your installed image viewing application.  
 Due to how the default Windows Photos app is built, launching it will not return a process ID to the script and because of this, the script will not work as intended with the Photos app. In that case it's better to drop **-Previewimages** altogether.
-  
+
+## Example:  
+You can review the results for a batch of photos I took without having to download and run the script yourself, just refer to the **Photos** and **Out** folders.
+
 ## Sources:
 https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/  
 https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/concept-describing-images  
