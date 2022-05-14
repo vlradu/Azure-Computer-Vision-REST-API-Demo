@@ -24,7 +24,7 @@
 .SYNOPSIS
 Demo for Computer Vision APIs.
 .DESCRIPTION
-This script demonstrates how to do call the Computer Vision APIs from Azure Cognitive Services via REST, specifically the Analyze Image API to get image descriptions. Sources:
+This script demonstrates how to call the Computer Vision APIs from Azure Cognitive Services via REST, specifically the Analyze Image API to get image features. Sources:
 https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/
 https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/concept-describing-images 
 https://docs.microsoft.com/en-us/azure/cognitive-services/Computer-vision/Vision-API-How-to-Topics/HowToCallVisionAPI?tabs=rest
