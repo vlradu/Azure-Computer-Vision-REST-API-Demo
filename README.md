@@ -1,6 +1,7 @@
 # Azure-Computer-Vision-REST-API-Demo
 
 This is a simple PowerShell script that iterates through images in a folder and calls the Computer Vision Analyze Image API to obtain their features.  
+You may ask "Why PowerShell of all things?". I wanted to learn more PowerShell and saw this as a decent opportunity.  
 **Important:** This requires setting up your own Computer Vision resource in the Azure Portal.  
 
 ## How to run:  
